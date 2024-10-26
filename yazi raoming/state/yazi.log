@@ -1,0 +1,523 @@
+  2024-10-19T08:32:40.324721Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T08:35:31.022478Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T08:35:43.365039Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T08:35:54.986846Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:12:39.566249Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:11.896895Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\Documents\Battlefield 4\twinkle\assets\icon-user-fallback-aaaf80be.png
+C:\Users\Administrator\Documents\ELC\Servers\apache-tomcat-10.0.10 at localhost-config\tomcat-users.xml
+C:\Users\Administrator\Documents\Need for Speed Heat\settings\user.cfg
+C:\Users\Administrator\Documents\Old\Java\newstart\UserAuthenticationApp$1.class
+C:\Users\Administrator\Documents\Old\Java\newstart\UserAuthenticationApp$2.class
+C:\Users\Administrator\Documents\Old\Java\newstart\UserAuthenticationApp$3.class
+C:\Users\Administrator\Documents\Old\Java\newstart\UserAuthenticationApp.class
+C:\Users\Administrator\Documents\Old\Java\newstart\UserAuthenticationApp.java
+C:\Users\Administrator\Documents\React\todotest\node_modules\@testing-library\dom\dist\get-user-code-frame.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\@testing-library\react\node_modules\@testing-library\dom\dist\get-user-code-frame.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\autoprefixer\lib\hacks\user-select.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\axobject-query\lib\etc\objects\UserInterfaceTooltipRole.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\caniuse-lite\data\features\user-select-none.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\caniuse-lite\data\features\user-timing.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\caniuse-lite\data\features\webkit-user-drag.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\core-js-pure\internals\environment-user-agent.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\core-js\internals\environment-user-agent.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\eslint-plugin-flowtype\dist\rules\useReadOnlySpread.js
+C:\Users\Administrator\Documents\React\todotest\node_modules\eslint-plugin-testing-library\rules\prefer-user-event.js
+C:\Users\Administrator\Documents\Rockstar Games\GTA San Andreas Definitive Edition\Config\WindowsNoEditor\GameUserSettings.ini
+C:\Users\Administrator\Documents\Servers\apache-tomcat-9.0.95\conf\tomcat-users.xml
+C:\Users\Administrator\Documents\Servers\apache-tomcat-9.0.95\conf\tomcat-users.xsd
+C:\Users\Administrator\Documents\Servers\Tomcat\apache-tomcat-10.0.10\conf\tomcat-users.xml
+C:\Users\Administrator\Documents\Servers\Tomcat\apache-tomcat-10.0.10\conf\tomcat-users.xsd
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:15.222625Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:16.945078Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:18.660634Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:29.030495Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:51.263557Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:13:59.640624Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:14:10.994614Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:14:29.968430Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-19T09:14:35.961610Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-20T07:21:49.395929Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Documents\Old\ProjectReport.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-20T07:21:49.394756Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-20T07:21:49.396496Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Documents\Old\Flight Itinerary.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-20T07:21:49.415518Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `C:\Users\Administrator\Documents\Old\Cyberpunk_2077_1080.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-20T07:25:14.415359Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-20T07:26:13.815109Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-20T07:26:14.227967Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-20T07:26:14.575534Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-22T07:18:36.243357Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\discoclient.properties
+C:\Users\Administrator\ersion
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:18:49.333303Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:19:12.413751Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:21:09.039752Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\ntuser.ini
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:21:10.784760Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:37:07.657108Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\bootTel.dat
+C:\DumpStack.log.tmp
+C:\pagefile.sys
+C:\swapfile.sys
+C:\WinPEpge.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:51:26.640945Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\be2f12d2-2cee-4736-9c1c-3e7a41b4e56f.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.641829Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\466k manjoo and other kissan saigrace mirzamurad registry (1).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.641985Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\DocScanner 03-Jul-2024 11-53 am.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642062Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-22T07:51:26.642076Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\DOC-20240528-WA0000..pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642111Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\ErpPayment.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642188Z ERROR yazi_plugin::utils::log: "spawn `ffmpegthumbnailer` command returns nil"
+    at yazi-plugin\src\utils\log.rs:20
+
+  2024-10-22T07:51:26.642441Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `C:\Users\Administrator\Downloads\7.mp4`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642552Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `video` with `C:\Users\Administrator\Downloads\Battlefield 4 Animated Background 4K Wallpaper [0i6z1jzw2og].webm`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642707Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\DOC-20240830-WA0006..pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642872Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\Adobe Scan 29 Aug 2024 (1).pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:51:26.642981Z ERROR yazi_scheduler::prework::prework: Returned 0 when running preloader `pdf` with `C:\Users\Administrator\Downloads\AI_PYQ_ANS.pdf`
+    at yazi-scheduler\src\prework\prework.rs:76
+
+  2024-10-22T07:53:43.206183Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:53:43.206223Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:53:43.209683Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T07:53:55.118607Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:53:55.118646Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:53:55.121746Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T07:54:05.935176Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:54:05.935213Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:54:05.938372Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T07:55:49.689015Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:55:49.689051Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:55:49.692327Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T07:56:06.610781Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\..wezterm.lua.un~
+C:\Users\Administrator\.bash_history
+C:\Users\Administrator\.ctsystem
+C:\Users\Administrator\.gitconfig
+C:\Users\Administrator\.lesshst
+C:\Users\Administrator\.node_repl_history
+C:\Users\Administrator\.npmrc
+C:\Users\Administrator\.packettracer
+C:\Users\Administrator\.viminfo
+C:\Users\Administrator\.wezterm.lua
+C:\Users\Administrator\1
+C:\Users\Administrator\abc.java
+C:\Users\Administrator\abc.py
+C:\Users\Administrator\config.inputrc
+C:\Users\Administrator\d4ac4633ebd6440fa397b84f1bc94a3c.7z
+C:\Users\Administrator\data.mv.db
+C:\Users\Administrator\discoclient.properties
+C:\Users\Administrator\ersion
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\ntuser.ini
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:56:14.231089Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:56:17.313646Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T07:56:40.688493Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:56:40.688531Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:56:40.691919Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T07:57:36.967599Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T07:57:36.967635Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T07:57:36.971077Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T08:02:22.779067Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\bootTel.dat
+C:\DumpStack.log.tmp
+C:\pagefile.sys
+C:\swapfile.sys
+C:\WinPEpge.sys
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:02:22.947740Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\abc.py
+C:\Users\Administrator\config.inputrc
+C:\Users\Administrator\d4ac4633ebd6440fa397b84f1bc94a3c.7z
+C:\Users\Administrator\data.mv.db
+C:\Users\Administrator\discoclient.properties
+C:\Users\Administrator\ersion
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\ntuser.ini
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:30:07.485315Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T08:30:07.485353Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T08:30:07.488796Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T08:30:14.240573Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\.lesshst
+C:\Users\Administrator\.node_repl_history
+C:\Users\Administrator\.npmrc
+C:\Users\Administrator\.packettracer
+C:\Users\Administrator\.viminfo
+C:\Users\Administrator\.wezterm.lua
+C:\Users\Administrator\1
+C:\Users\Administrator\abc.java
+C:\Users\Administrator\abc.py
+C:\Users\Administrator\config.inputrc
+C:\Users\Administrator\d4ac4633ebd6440fa397b84f1bc94a3c.7z
+C:\Users\Administrator\data.mv.db
+C:\Users\Administrator\discoclient.properties
+C:\Users\Administrator\ersion
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\ntuser.ini
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:40:28.996866Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T08:40:28.996913Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T08:40:29.000586Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
+  2024-10-22T08:40:35.559040Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\.lesshst
+C:\Users\Administrator\.node_repl_history
+C:\Users\Administrator\.npmrc
+C:\Users\Administrator\.packettracer
+C:\Users\Administrator\.viminfo
+C:\Users\Administrator\.wezterm.lua
+C:\Users\Administrator\1
+C:\Users\Administrator\abc.java
+C:\Users\Administrator\abc.py
+C:\Users\Administrator\config.inputrc
+C:\Users\Administrator\d4ac4633ebd6440fa397b84f1bc94a3c.7z
+C:\Users\Administrator\data.mv.db
+C:\Users\Administrator\discoclient.properties
+C:\Users\Administrator\ersion
+C:\Users\Administrator\inittk.ini
+C:\Users\Administrator\inst.ini
+C:\Users\Administrator\install.ps1
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\new.txt
+C:\Users\Administrator\No
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\ntuser.ini
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:40:39.414956Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+C:\Users\Administrator\nuuid.ini
+C:\Users\Administrator\package-lock.json
+C:\Users\Administrator\package.json
+C:\Users\Administrator\requirements.txt
+C:\Users\Administrator\useruid.ini
+C:\Users\Administrator\_viminfo
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:40:43.323956Z ERROR yazi_scheduler::prework::prework: Returned 2 when running fetcher `mime` with:
+C:\Users\Administrator\LauncherFolder
+C:\Users\Administrator\MyDocuments
+C:\Users\Administrator\NTUSER.DAT
+C:\Users\Administrator\ntuser.dat.LOG1
+C:\Users\Administrator\ntuser.dat.LOG2
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TM.blf
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000001.regtrans-ms
+C:\Users\Administrator\NTUSER.DAT{2da21cbe-34fe-11ee-801b-a8a1593f87ea}.TMContainer00000000000000000002.regtrans-ms
+    at yazi-scheduler\src\prework\prework.rs:49
+
+  2024-10-22T08:40:58.933163Z  WARN yazi_adapter::adapter: [Adapter] Could not identify XDG_SESSION_TYPE
+    at yazi-adapter\src\adapter.rs:108
+
+  2024-10-22T08:40:58.933205Z  WARN yazi_adapter::adapter: [Adapter] Falling back to chafa
+    at yazi-adapter\src\adapter.rs:120
+
+  2024-10-22T08:40:58.936259Z  WARN yazi_adapter::ueberzug: ueberzugpp spawning failed: program not found
+    at yazi-adapter\src\ueberzug.rs:96
+
